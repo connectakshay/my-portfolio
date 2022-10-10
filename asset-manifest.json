@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-portfolios/static/css/main.d8b8a4cb.css",
+    "main.js": "/my-portfolios/static/js/main.3af3a0b0.js",
+    "static/media/profile-img.png": "/my-portfolios/static/media/profile-img.4b8fd5fe968ae4311256.png",
+    "static/media/ConvocationForm.pdf": "/my-portfolios/static/media/ConvocationForm.d823e0f28ef858c2a6f1.pdf",
+    "index.html": "/my-portfolios/index.html",
+    "main.d8b8a4cb.css.map": "/my-portfolios/static/css/main.d8b8a4cb.css.map",
+    "main.3af3a0b0.js.map": "/my-portfolios/static/js/main.3af3a0b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8b8a4cb.css",
+    "static/js/main.3af3a0b0.js"
+  ]
+}
